@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,0,8&height=300&section=header&text=YeJun%20Moon&fontSize=90)
+
+
+
 <!--
 **nurungee22/nurungee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
