@@ -5,7 +5,22 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,0,8&height=300&section=header&text=YeJun%20Moon&fontSize=90)
 </div>
 
+
+
+
 <!--내용 부분-->
+
+<h3 align="center">📢 About Me 📢</h3>
+<div align="center">
+  <p>
+    안녕하세요,👋🏻 문제 앞에서 늘 도전적인, 데이터 분석가 <strong>문예준</strong>입니다!<br>
+    데이터 분석을 통해 비즈니스 문제를 집요하게 탐구하고,<br>
+    통계적 방법론부터 AI까지 다양한 도구를 유연하게 활용해 최적의 해답을 찾아냅니다.
+  </p>
+</div>
+
+<br>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -24,10 +39,7 @@
   <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </div>
 
-<br>
 
-
-<br>
 
 <h3 align="center">🛠 Communication Tools 🛠</h3>
 <div align="center">
@@ -41,13 +53,12 @@
 
 </div>
 
-<br>
+
 
 <div align="center">
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -56,6 +67,8 @@
       src="https://img.shields.io/badge/myjjj9132@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
 
 ------
 
@@ -92,8 +105,11 @@
 
 -------
 
-<h3> 💡Projects </h3>
-- 
+<h3> 💡Main Projects </h3>
+
+- 가맹점 경영위기 조기경보 서비스 제안: 📦repository(https://github.com/nurungee22/2025_BIGCONTEST)
+- 금융 상품 추천 AI 서비스, Kard-toon: 📦repository(https://github.com/nurungee22/KB-AI-Challenge-1)
+- CJ 더마켓 프라임 회원 예측 프로젝트: 📦repository(https://github.com/nurungee22/Prime-Customer-Prediction)
 
 
 <!--
