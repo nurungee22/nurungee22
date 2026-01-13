@@ -107,9 +107,9 @@
 
 <h3> 💡Main Projects </h3>
 
-- 가맹점 경영위기 조기경보 서비스 제안: 📦repository(https://github.com/nurungee22/2025_BIGCONTEST)
-- 금융 상품 추천 AI 서비스, Kard-toon: 📦repository(https://github.com/nurungee22/KB-AI-Challenge-1)
-- CJ 더마켓 프라임 회원 예측 프로젝트: 📦repository(https://github.com/nurungee22/Prime-Customer-Prediction)
+- 가맹점 경영위기 조기경보 서비스 제안: [📦repository](https://github.com/nurungee22/2025_BIGCONTEST)
+- 금융 상품 추천 AI 서비스, Kard-toon: [📦repository](https://github.com/nurungee22/KB-AI-Challenge-1)
+- CJ 더마켓 프라임 회원 예측 프로젝트: [📦repository](https://github.com/nurungee22/Prime-Customer-Prediction)
 
 
 <!--
